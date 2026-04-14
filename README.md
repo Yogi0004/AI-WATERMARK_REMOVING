@@ -83,7 +83,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 
 👉 API runs at:
-http://127.0.0.1:8000
+http://000.0.0.0:0000
 
 🔹 Start Frontend (Streamlit)
 streamlit run streamlit_app.py
